@@ -1,12 +1,9 @@
-<h1>
-   Hi! 
-   I'm Lufflo
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
-   
-</h1>
-
-
-
+ <h1>
+    Hi!
+    I'm Lufflo
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
+  </h1>
+  
 <div id="badges" align="center">
   <a href="mailto:cristianchaconn10@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
@@ -16,7 +13,7 @@
   </a>
 </div>
 
-## <img src="https://i.imgur.com/pn42oqo.gif" width="50" />  &nbsp;***About me***
+## <img src="https://i.imgur.com/pn42oqo.gif" width="40px">  &nbsp;***About me***
 
 Hi there! I'm Cristian Chacón, but you can call me "Lufflo" — a name inspired by my love for One Piece. I'm currently a high school student in Chile, pursuing a technical professional career. While I'm still learning, I have a strong passion for technology and enjoy exploring new things in the field. I believe in the power of continuous learning, and I'm always excited to improve my skills and grow as a developer. Feel free to check out my projects, and let's connect!
 - <h3 align="left">Languages and Tools:</h3>
@@ -37,8 +34,13 @@ Hi there! I'm Cristian Chacón, but you can call me "Lufflo" — a name inspired
 __Check out my GitHub repository:__
 
 - 📫 How to reach me: email me [cristianchaconn10@gmail.com](mailto:cristianchaconn10@gmail.com), you can also contact me from my [website](https://lufflo.github.io/Portfolio-Lufflo/).
- <hr width="60%" >
-
-   <a href="https://www.instagram.com/lufflo.dev/">
+<hr width="60%" >
+<div align="center">
+  <h3>⬇️ Follow Me:</h3>
+</div>
+<div align="center">
+  <a href="https://www.instagram.com/lufflo.dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+</div>
+
